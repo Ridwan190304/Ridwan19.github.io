@@ -1,0 +1,17 @@
+/* Style Background Image */
+.coverBg {
+    background-image: url(Putsab.jpg);
+    background-repeat: no-repeat;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-size: 100%;
+}
+
+/* Style Wrapper*/
+.wrapper {
+    width: 900px;
+    margin: auto;
+    background-color: aliceblue;
+    position: relative;
+}
